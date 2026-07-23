@@ -6,7 +6,7 @@
 
 ---
 
-Open course materials for a graduate seminar on artificial intelligence *in and for the public sector*. The course is designed for future public servants, policy leaders, and analysts who need to understand how AI systems actually work, and how to govern and deploy them responsibly inside real government institutions. It blends technical fluency (no coding required), public-administration grounding, and hands-on work with AI tools.
+Open course materials for a graduate seminar on artificial intelligence *in and for the public sector*. The course is designed for current and future public servants, policy leaders, and analysts who need to understand how AI systems actually work, and how to govern and deploy them responsibly inside real government institutions. It blends technical fluency (no coding required), public-administration grounding, and hands-on work with AI tools.
 
 > **Adapted with attribution.** This course adapts the structure and pedagogy of [*Applied AI Systems and Governance* (PPG2012H)](https://github.com/jaxson/ai-policy-course) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands its "Understanding & Governing AI" material into a full seminar. It also draws on [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital) for the digital-era government backbone for its competency framework, unit structure, and reading spine. See [`LICENSE.md`](./LICENSE.md).
 
