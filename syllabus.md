@@ -7,9 +7,9 @@
 **Email:** honey.dacanay@mcmaster.ca
 **Office Hours:** By appointment
 **Prerequisite:** None — no coding or technical background required
-**Institution:** McMaster University, School of Public Policy
+**Institution:** McMaster University, School of Public Policy and Founding Contributor and Research Lead, Teaching Public Service in the Digital Age
 
-> **Adaptation note.** This course adapts the structure and pedagogy of *Applied AI Systems and Governance* (PPG2012H) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands the "Understanding & Governing Artificial Intelligence" teaching unit into a full graduate seminar. Adapted and shared with attribution, in the spirit of the original's open license.
+> **Adaptation note.** This course adapts the structure and pedagogy of *Applied AI Systems and Governance* (PPG2012H) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands the "Understanding & Governing Artificial Intelligence" teaching unit into a full graduate seminar. It also draws on Teaching Public Service in the Digital Age (teachingpublicservice.digital) for the digital-era government backbone: its Digital Era Competencies, unit structure, and reading spine. Adapted and shared with attribution, in the spirit of both originals' open licenses.
 
 ---
 
@@ -72,11 +72,14 @@ Because this is a participatory course, you are expected to complete the recomme
 
 How did we get here, and why does AI matter for public servants specifically? Overview of course expectations, tools, and the tensions ledger. AI as the newest and fastest-evolving turn in the long story of governments automating decisions with data — neither magic nor menace. The two failure modes the course avoids: hype and reflexive fear.
 
+We open with the question the whole course rests on, and it is older than AI: **does technology drive history?** If technological change is autonomous and inevitable, public servants are passengers, and governance is at best damage control. If technologies are social products — made by particular people, funded by particular interests, and susceptible to democratic control — then the choices in this course are real ones. Smith and Marx's collection is the classic statement of that dilemma, and the "AI is inevitable" rhetoric students will meet all term is a direct descendant of the determinism it examines. We return to this in Session 12.
+
 *Tension: Wanting to be modern versus wanting to be accountable.*
 
-*Discussion: Where is government going with AI, and what should the public servant's role be in shaping it?*
+*Discussion: Where is government going with AI, and what should the public servant's role be in shaping it? Is any of it inevitable?*
 
 **Recommended Material:**
+- *Does Technology Drive History? The Dilemma of Technological Determinism* (1994) — Merritt Roe Smith & Leo Marx (eds.), MIT Press. Start with Smith's "Technological Determinism in American Culture," Heilbroner's "Do Machines Make History?" and Hughes's "Technological Momentum."
 - [GenAI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 - [Implementing AI in the Public Sector](https://www.tandfonline.com/doi/full/10.1080/14719037.2023.2231950) (2024) — Mergel, Dickinson, Stenvall & Gasco
 - [Digital transformation toward AI-augmented public administration](https://www.sciencedirect.com/science/article/abs/pii/S0740624X21001003) (2022) — Ahn & Chen
@@ -238,13 +241,16 @@ The heart of the comparative week, built around a deliberate contrast between tw
 
 Set against the EU AI Act and OECD principles, the two cases pose the course's central question at the level of the state: what does "AI governance" even mean, and what does each approach leave out? (Taiwan also carries a participatory-democracy tradition — vTaiwan — worth weighing against a purely executive, delivery-led model.)
 
+**A third position, against both.** Vertesi, boyd, Taylor and Shestakofsky argue that most of what passes for AI critique and governance — including debates about what AI *is*, whether it is inevitable, how disruptive it will be, whether it is safe, and how to regulate it — functions as a set of *decoys*. Each looks like accountability while drawing attention away from the material political economy: the networks of capital, infrastructure, chips, data centres, and elite relationships that make "the Project of AI" possible. On this reading, a jurisdiction can write an admirable Basic Act or ship an impressive modernization program and leave the actual locus of power entirely untouched. Their "regulatory decoy" names the EU AI Act specifically; their "inevitability decoy" is the direct heir to the technological determinism we opened with in Session 1. Students should test this argument as hard as they test Alberta's numbers — it is a strong claim, and it risks implying that no institutional reform matters.
+
 *Tension: Deliver first versus govern first — and whether either, alone, is a complete theory of AI in the public sector.*
 
-*Discussion: Is the charge that Alberta is "simplistic compared to Taiwan" fair? Build the strongest case each way. What would a synthesis that took both delivery and rights seriously actually require?*
+*Discussion: Is the charge that Alberta is "simplistic compared to Taiwan" fair? Build the strongest case each way. Then apply the decoy argument to both: is either jurisdiction touching the political economy, or are they arguing over the wrong thing? What would a synthesis that took delivery, rights, and power seriously actually require?*
 
 **Recommended Material:**
 - [Taiwan's Emerging AI Governance: Building from the Basic Act to the Hard Questions of Data and Copyright](https://www.nbr.org/publication/taiwans-emerging-ai-governance-building-from-the-basic-act-to-the-hard-questions-of-data-and-copyright/) (2026) — Kai-Shen Huang, NBR
 - [The Velocity White Papers](https://thevelocitywhitepapers.com/) — Government of Alberta (2026)
+- [Reckoning with the Political Economy of AI: Avoiding Decoys in Pursuit of Accountability](https://arxiv.org/abs/2604.16106) (2026) — Janet Vertesi, danah boyd, Alex Taylor & Benjamin Shestakofsky, FAccT '26
 - [EU AI Act — Code of Practice overview](https://artificialintelligenceact.eu/code-of-practice-overview/)
 - [Taiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy](https://civichall.org/civicist/vtaiwan-democracy-frontier/) (2016) — Liz Barry
 
@@ -281,6 +287,7 @@ These books are referenced throughout the course and will inform your assignment
 | Book | Author (Year) | Why |
 |------|---------------|-----|
 | *Recoding America* | Jennifer Pahlka (2023) | Why government struggles to deliver in the digital age, and how to do better |
+| *Does Technology Drive History?* | Smith & Marx, eds. (1994) | The foundational question of the course: is any of this inevitable? |
 | *Co-Intelligence* | Ethan Mollick (2024) | A pragmatic, accessible guide to working with AI |
 | *The Alignment Problem* | Brian Christian (2020) | How AI systems come to reflect — and distort — human values |
 | *Power and Prediction* | Agrawal, Gans & Goldfarb (2022) | The economics of AI as cheap prediction, and what it disrupts |
@@ -355,6 +362,8 @@ This course treats generative AI as a normal part of modern policy work, and you
 
 The point of the course is to learn — a chance you will not get in the same way in the workplace.
 
+**And the same standard applies to me.** These course materials were developed with AI assistance, used for synthesis, drafting, and structuring across the sources credited at the top of this syllabus. The architecture, the choice of themes and cases, and the final judgments are mine. If you find an error in a citation or a link, tell me. That is the verification problem this policy is about, and it does not exempt the person who set the policy.
+
 ### Academic integrity
 
 All work must be original and give appropriate credit to others, for both individual and group deliverables. Consult your institution's academic-integrity policy for the definitions and procedures that apply to you.
@@ -369,7 +378,7 @@ Guest speakers appear under the Chatham House Rule. Please do not record session
 
 ### Accessibility and wellbeing
 
-This course aims to be as accessible as possible; students are encouraged to register with their institution's accessibility services and, if they wish, to speak with the instructor directly about accommodations. If you are struggling, please make use of your institution's mental-health and wellbeing resources — your wellbeing comes first.
+This course aims to be as accessible as possible; students are encouraged to register with their institution's accessibility services and, if they wish, to speak with the instructor directly about accommodations. If you are struggling, please make use of your institution's mental-health and wellbeing resources. Your wellbeing comes first.
 
 ### Contacting the instructor
 
