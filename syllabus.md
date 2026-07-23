@@ -5,8 +5,6 @@
 
 **Instructor:** Honey Dacanay, Professor of Practice
 **Email:** honey.dacanay@mcmaster.ca
-**Office Hours:** By appointment
-**Prerequisite:** None — no coding or technical background required
 
 > **Adaptation note.** This course adapts the structure and pedagogy of *Applied AI Systems and Governance* (PPG2012H) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands the "Understanding & Governing Artificial Intelligence" teaching unit into a full graduate seminar. It also draws on Teaching Public Service in the Digital Age (teachingpublicservice.digital) for the digital-era government backbone: its Digital Era Competencies, unit structure, and reading spine. Adapted and shared with attribution, in the spirit of both originals' open licenses.
 
