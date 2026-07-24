@@ -5,8 +5,10 @@
 
 **Instructor:** Honey Dacanay, Professor of Practice
 **Email:** honey.dacanay@mcmaster.ca
+**Office Hours:** By appointment
+**Prerequisite:** None — no coding or technical background required
 
-> **Adaptation note.** This course adapts the structure and pedagogy of *Applied AI Systems and Governance* (PPG2012H) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands the "Understanding & Governing Artificial Intelligence" teaching unit into a full graduate seminar. It also draws on Teaching Public Service in the Digital Age (teachingpublicservice.digital) for the digital-era government backbone: its Digital Era Competencies, unit structure, and reading spine. Adapted and shared with attribution, in the spirit of both originals' open licenses.
+> **Adaptation note.** This course adapts the structure and pedagogy of *Applied AI Systems and Governance* (PPG2012H) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands the "Understanding & Governing Artificial Intelligence" teaching unit into a full graduate seminar. It also draws on Teaching Public Service in the Digital Age (teachingpublicservice.digital) for the digital-era government backbone: Digital Era Competencies, unit structure, and reading spine. Adapted and shared with attribution, in the spirit of both originals' open licenses.
 
 ---
 
@@ -25,11 +27,11 @@
 
 ## Course Description
 
-This graduate seminar is a practical and critical introduction to artificial intelligence *in and for the public sector*. It is designed for future public servants, policy leaders, and analysts who need to understand how AI systems actually work — and how to govern and deploy them responsibly inside real government institutions.
+This graduate seminar is a practical and critical introduction to artificial intelligence *in and for the public sector*. It is designed for current and future public servants, policy leaders, and analysts who need to understand how AI systems actually work and how to govern and deploy them responsibly inside real government institutions.
 
-The course does two things at once. It builds the **fluency** to understand modern AI without turning students into engineers: how machine learning and large language models work, what they are genuinely good for, and how they fail. And it builds the **judgment** to govern AI: the harms these systems produce, the entry points where governance can bite, the machinery of government that decides what gets built and bought, and the international frameworks now taking shape. No coding is required — only curiosity and a willingness to experiment.
+The course does two things at once. It builds the **fluency** to understand modern AI without turning students into engineers: how machine learning and large language models work, what they are genuinely good for, and how they fail. And it builds the **judgment** to govern AI: the harms these systems produce, the entry points where governance can bite, the machinery of government that decides what gets built and bought, and the international frameworks now taking shape. No coding is required: only curiosity and a willingness to experiment.
 
-A single throughline runs through every week: **governing AI well means holding tensions, not resolving them away.** Efficiency competes with equity; speed with accountability; the value of data with its capacity to harm; automation with the citizen's right to a human, contestable decision; sovereignty with openness. AI does not remove these tensions — it sharpens them. The course deliberately steers between two failure modes: the *hype* that adopts AI faster than it can be understood or governed, and the *reflexive fear* that refuses to engage at all. Between them sits the public servant's real task.
+A single throughline runs through every week: **governing AI well means holding tensions, not resolving them away.** Efficiency competes with equity; speed with accountability; the value of data with its capacity to harm; automation with the citizen's right to a human, contestable decision; sovereignty with openness. AI does not remove these tensions; rather, it sharpens them. The course deliberately steers between two failure modes: the *hype* that adopts AI faster than it can be understood or governed, and the *reflexive fear* that refuses to engage at all. Between them sits the public servant's real task.
 
 Each week pairs conceptual learning with real-world cases and hands-on exercises, and the course features guest speakers from government and industry. Students gain experience using generative AI, evaluating AI systems, and producing the documents and prototypes public-service careers actually demand, culminating in an applied final project.
 
@@ -39,25 +41,27 @@ Each week pairs conceptual learning with real-world cases and hands-on exercises
 
 By the end of this course, students will be able to:
 
-1. **Understand how contemporary AI systems are built, deployed, and governed.** Students will gain a working, non-technical grasp of the AI stack — data, models, compute, agents — and the lifecycle from development through deployment to monitoring. The goal is not engineering skill but the fluency to interrogate technical and vendor claims and to form positions grounded in reality.
+1. **Understand how contemporary AI systems are built, deployed, and governed.** Students will gain a working, non-technical grasp of the AI stack — data, models, compute, agents — and the lifecycle from development through deployment to monitoring. The goal is to gain the fluency to interrogate technical and vendor claims, and to form positions grounded in reality.
 
-2. **Analyze the societal, economic, equity, and democratic implications of AI across public-sector domains and jurisdictions.** Students will examine real cases — from benefits and registries to legacy modernization and national AI strategies — and learn to assess risks, opportunities, and trade-offs through a public-interest lens, with particular attention to who bears the cost.
+2. **Analyze the societal, economic, equity, and democratic implications of AI across public-sector domains and jurisdictions.** Students will examine real cases ranging from benefits and registries to legacy modernization and national AI strategies, and learn to assess risks, opportunities, and trade-offs through a public-interest lens, with particular attention to who bears the cost.
 
-3. **Design AI governance and deployment responses that reflect both technical reality and public values.** Students will learn to craft governance mechanisms, impact assessments, and deployment strategies that actually work inside bureaucracies — and to make the tensions visible rather than letting a tool quietly decide them.
+3. **Design AI governance and deployment responses that reflect both technical reality and public values.** Students will learn to craft governance mechanisms, impact assessments, and deployment strategies that actually work inside bureaucracies. They will also learn to make the tensions visible rather than letting a tool quietly decide them.
 
-4. **Use modern AI tools in ways directly relevant to public-service careers.** Students will gain hands-on experience with generative AI and structured evaluation methods, learning to accelerate research, draft and stress-test policy options, and prototype public-service tools — while applying rigorous verification practices.
+4. **Use modern AI tools in ways directly relevant to public-service careers.** Students will gain hands-on experience with generative AI and structured evaluation methods, learning to accelerate research, draft and stress-test policy options, and prototype public-service tools while applying rigorous verification practices.
 
 ---
 
 ## Course Format
 
-This is a participatory, discussion-based seminar that works best when students arrive ready to engage. Each week blends seminar discussion, short lectures, and — frequently — guest speakers from government, industry, and academia. Guest speakers appear under the Chatham House Rule: please do not record or attribute their comments.
+This is a participatory, discussion-based seminar that works best when students arrive ready to engage. Each week blends seminar discussion, short lectures, and guest speakers from government, industry, and academia. Guest speakers appear under the Chatham House Rule: please do not record or attribute their comments.
 
 Because this is a participatory course, you are expected to complete the recommended readings, explore the AI tools introduced, and come prepared to contribute. Throughout the term you will work individually and in small groups, and you are encouraged to experiment with AI tools to complete assignments that mirror how AI is actually used in policy environments.
 
-**The tensions ledger.** A light recurring device runs through the course. Each week you will log the central trade-off that week's theme forces on government — what is gained, what is risked, and who bears the cost. The ledger keeps AI honest, and it feeds directly into your final project.
+**The adaptive capacity diagnostic.** A working instrument runs through the course, and it is what you take away from it. In Session 1 you choose a real institution — ideally your own, or one you know well — and across the term you assess it on seven dimensions of adaptive capacity: sensing, self-legibility, absorptive capacity, structural flexibility, acting under uncertainty, feedback and correction, and legitimacy. Seven sessions each carry one dimension. In each you record what evidence you looked at, what you found, what you could not see, the tension the dimension carries, and one intervention that would strengthen it.
 
-**The course AI toolkit.** Students will be given a set of AI research custom instructions to paste into any AI tool they use for coursework — designed to reduce fabrication and improve rigour (verify every source, never present a guess as fact, distinguish enacted from proposed policy, flag uncertainty). Use of these instructions is expected whenever AI is used for graded work. See the Generative AI policy below.
+The logic is simple: most of what you learn about AI specifically will date, but the question of whether an institution can see, decide, absorb, and correct at the speed a problem demands will not. AI is the stress test, not the subject. By Session 14 you hold a complete assessment of a real institution. See [`resources/adaptive-capacity-diagnostic.md`](./resources/adaptive-capacity-diagnostic.md) for the full instrument, entry template, and session mapping.
+
+**The course AI toolkit.** Students will be given a set of AI research custom instructions to paste into any AI tool they use for coursework designed to reduce fabrication and improve rigour (verify every source, never present a guess as fact, distinguish enacted from proposed policy, flag uncertainty). Use of these instructions is expected whenever AI is used for graded work. See the Generative AI policy below.
 
 ---
 
@@ -67,16 +71,18 @@ Because this is a participatory course, you are expected to complete the recomme
 
 ### Session 1 — Orientation: AI in the Public Sector — Why This, Why Now
 
-How did we get here, and why does AI matter for public servants specifically? Overview of course expectations, tools, and the tensions ledger. AI as the newest and fastest-evolving turn in the long story of governments automating decisions with data — neither magic nor menace. The two failure modes the course avoids: hype and reflexive fear.
+How did we get here, and why does AI matter for public servants specifically? Overview of course expectations, tools, and the adaptive capacity diagnostic. AI as the newest and fastest-evolving turn in the long story of governments automating decisions with data — neither magic nor menace. The two failure modes the course avoids: hype and reflexive fear.
 
-We open with the question the whole course rests on, and it is older than AI: **does technology drive history?** If technological change is autonomous and inevitable, public servants are passengers, and governance is at best damage control. If technologies are social products — made by particular people, funded by particular interests, and susceptible to democratic control — then the choices in this course are real ones. Smith and Marx's collection is the classic statement of that dilemma, and the "AI is inevitable" rhetoric students will meet all term is a direct descendant of the determinism it examines. We return to this in Session 12.
+We open with the question the whole course rests on, and it is older than AI: **does technology drive history?** If technological change is autonomous and inevitable, public servants are passengers, and governance is at best damage control. If technologies are social products made by particular people, funded by particular interests, and susceptible to democratic control, then the choices in this course are real ones. Smith and Marx's collection is the classic statement of that dilemma, and the "AI is inevitable" rhetoric students will meet all term is a direct descendant of the determinism it examines. We return to this in Session 12.
 
 *Tension: Wanting to be modern versus wanting to be accountable.*
 
 *Discussion: Where is government going with AI, and what should the public servant's role be in shaping it? Is any of it inevitable?*
 
+**Diagnostic — set up.** Choose the institution you will assess all term, and record your intuition now: how adaptive do you expect it to be, and why? You will return to this in Session 14.
+
 **Recommended Material:**
-- *Does Technology Drive History? The Dilemma of Technological Determinism* (1994) — Merritt Roe Smith & Leo Marx (eds.), MIT Press. Start with Smith's "Technological Determinism in American Culture," Heilbroner's "Do Machines Make History?" and Hughes's "Technological Momentum."
+- [*Does Technology Drive History? The Dilemma of Technological Determinism*](https://mitpress.mit.edu/9780262193474/does-technology-drive-history/) (1994) — Merritt Roe Smith & Leo Marx (eds.), MIT Press. Start with Smith's "Technological Determinism in American Culture," Heilbroner's "Do Machines Make History?" and Hughes's "Technological Momentum."
 - [GenAI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 - [Implementing AI in the Public Sector](https://www.tandfonline.com/doi/full/10.1080/14719037.2023.2231950) (2024) — Mergel, Dickinson, Stenvall & Gasco
 - [Digital transformation toward AI-augmented public administration](https://www.sciencedirect.com/science/article/abs/pii/S0740624X21001003) (2022) — Ahn & Chen
@@ -101,11 +107,13 @@ A plain-language, no-code primer on machine learning and large language models: 
 
 ### Session 3 — What Is AI For in Government? Capabilities, Hype, and the Limits of Data
 
-The archetypal public-sector uses of AI — drafting, summarizing, triage, translation, pattern-finding — and how to tell realistic capability from hype. A model's usefulness is contingent on data quality, organizational context, and politics; commissioning systems on the false belief that data is better than it is remains a classic digital-era mistake.
+The archetypal public-sector uses of AI - drafting, summarizing, triage, translation, pattern-finding — and how to tell realistic capability from hype. A model's usefulness is contingent on data quality, organizational context, and politics; commissioning systems on the false belief that data is better than it is remains a classic digital-era mistake.
 
 *Tension: The promise of capability versus the reality of messy data, context, and politics.*
 
 *Discussion: Pick a public service. Where would AI genuinely help, and where is it hype?*
+
+**Diagnostic — Dimension 1 · Sensing.** *Can your institution see what is coming, and tell a real claim from a sold one?* Who is responsible for noticing? Where did its last three technology decisions originate — internally, or with a supplier?
 
 **Recommended Material:**
 - [Generative AI is already widespread in the public sector](https://arxiv.org/pdf/2401.01291) (2024) — Bright et al.
@@ -116,26 +124,30 @@ The archetypal public-sector uses of AI — drafting, summarizing, triage, trans
 
 ### Session 4 — The Machinery of Government: Where AI Gets Made, Bought, and Funded
 
-The public-administration grounding of the course. How government actually decides, funds, procures, and delivers — departments and agencies, decision-making and finance, IT procurement and human resources — and where AI enters that machinery. Vendor dependence and the accountability questions it raises.
+The public-administration grounding of the course. How government actually decides, funds, procures, and delivers via departments and agencies, decision-making and finance, IT procurement and human resources, and where AI enters that machinery. Vendor dependence and the accountability questions it raises.
 
 *Tension: Building state capacity versus depending on external vendors for critical AI systems.*
 
 *Discussion / Case: How does an AI system actually get approved, funded, and procured in your government? Where could it go wrong? (ArriveCAN as anchor.)*
 
+**Diagnostic — Dimension 3 · Absorptive capacity.** *Can it acquire new capability without becoming dependent on whoever supplied it?* What share of technical capability sits with people it employs? Could it evaluate or replace its largest supplier?
+
 **Recommended Material:**
 - [A Guide to Reforming Information Technology Procurement in the Government of Canada](https://govcanadacontracts.ca/it-procurement-guide/) (2022) — Clarke & Boots
 - [Breaking All the Rules: IT Procurement in the Government of Canada](https://amandaclarke.ca/wp-content/uploads/2024/07/2024-06-28-Breaking-All-the-Rules-Information-Technology-Procurement-in-the-Government-of-Canada-for-distribution.pdf) (2024) — Clarke & Boots
-- Office of the Auditor General of Canada (2024). Report on the ArriveCAN Application (full report).
+- [2024 Reports of the Auditor General of Canada, Report 1 — ArriveCAN](https://www.canada.ca/content/dam/oag-bvg/2021-2024-reports/documents/parl_oag_202402_01_e.pdf) (2024) — Office of the Auditor General of Canada (full report)
 
 ---
 
 ### Session 5 — Building, Procuring & Modernizing Public-Sector AI: Systems, Agents, and Legacy
 
-How public-sector AI actually gets built and bought: components and "government as a platform," build-versus-buy, "data-aware" procurement, and the fast-arriving world of agentic AI. The flagship live case is **Alberta's Velocity White Papers** (2026) — a bold, open-sourced program that used AI agents to review hundreds of millions of lines of legacy code and proposes to collapse scores of systems into a handful, framed around efficiency, security, and cost. We treat Alberta as an impressive delivery story here; we return to critique it on governance grounds in Session 12.
+How public-sector AI actually gets built and bought: components and "government as a platform," build-versus-buy, "data-aware" procurement, and the fast-arriving world of agentic AI. The flagship live case is **Alberta's Velocity White Papers** (2026): a bold, open-sourced program that used AI agents to review hundreds of millions of lines of legacy code and proposes to collapse scores of systems into a handful, framed around efficiency, security, and cost. We treat Alberta as an impressive delivery story here; we return to critique it on governance grounds in Session 12.
 
 *Tension: Modernizing at speed and scale versus the deliberation, oversight, and rights questions that speed can crowd out.*
 
 *Discussion: Alberta's figures are the province's own estimates. Which of its claims would you want independently verified before adopting the blueprint — and what would "defensible" have to mean?*
+
+**Diagnostic — Dimension 2 · Self-legibility.** *Can it see itself?* Could your institution produce an accurate inventory of its systems and data holdings? How long would that take, and who would have to be asked? Alberta began here on purpose.
 
 **Recommended Material:**
 - [The Velocity White Papers](https://thevelocitywhitepapers.com/) — Government of Alberta, Ministry of Technology and Innovation (2026)
@@ -170,11 +182,13 @@ Use this time to catch up on readings, submit any work within the permitted wind
 
 ### Session 8 — Design, Administrative Burden & the Human in the Loop
 
-Human-centred and service design in government, accessibility, and administrative burden — and the hardest governance question AI raises: meaningful human control. When a decision is made by or through a system, who is accountable, and how can a person affected by it get an explanation and contest it? If the honest answer is "no one" and "they can't," the system should not be making that decision.
+Human-centred and service design in government, accessibility, and administrative burden and the hardest governance question AI raises: meaningful human control. When a decision is made by or through a system, who is accountable, and how can a person affected by it get an explanation and contest it? If the honest answer is "no one" and "they can't," the system should not be making that decision.
 
 *Tension: Automating a service versus preserving accessible, humane, contestable decisions.*
 
 *Discussion: For a real automated public-sector decision, trace the accountability and the route to contest it. Does a genuine human role survive?*
+
+**Diagnostic — Dimension 6 · Feedback and correction.** *Can it learn that it is wrong from the people affected and change course?* How does your institution find out it has harmed someone? What does a person have to do to contest a decision, and how many give up?
 
 **Recommended Material:**
 - [Administrative Burden: Policy-making by Other Means](https://www.russellsage.org/sites/default/files/Herd-Moynihan-introduction.pdf) (2022) — Herd & Moynihan (introduction)
@@ -185,11 +199,13 @@ Human-centred and service design in government, accessibility, and administrativ
 
 ### Session 9 — Responsible AI: Bias, Equity, Auditing & Assurance
 
-What responsible AI looks like in practice inside government: algorithmic impact assessment, independent auditing, transparency and disclosure, and equity frameworks. National guidance as a working example, and the capabilities — algorithmic auditing, "data-aware" procurement — most governments have yet to build.
+What responsible AI looks like in practice inside government: algorithmic impact assessment, independent auditing, transparency and disclosure, and equity frameworks. National guidance as a working example, and the capabilities such as algorithmic auditing and "data-aware" procurement that most governments have yet to build.
 
 *Tension: Moving quickly to capture AI's benefits versus building the guardrails that earn public trust.*
 
 *Hands-on workshop: Draft an algorithmic impact assessment or responsible-use memo for a proposed public-sector system.*
+
+**Diagnostic — Dimension 7 · Legitimacy.** *Can it change without losing the public trust that makes it worth preserving?* Would your institution survive its current technology decisions being reported accurately? Are impact assessments instruments, or paperwork?
 
 **Recommended Material:**
 - [Guide on the use of generative artificial intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html) (2024) — Government of Canada
@@ -200,11 +216,13 @@ What responsible AI looks like in practice inside government: algorithmic impact
 
 ### Session 10 — AI Safety, Frontier Risk & Red-Teaming for Government
 
-AI safety in both technical and policy senses, framed for public servants rather than engineers: red-teaming, evaluation frameworks, misuse risks, and how frontier-risk thinking should shape government procurement and deployment. A grounded look at where capabilities may be heading — with a health warning about speculation.
+AI safety in both technical and policy senses, framed for public servants rather than engineers: red-teaming, evaluation frameworks, misuse risks, and how frontier-risk thinking should shape government procurement and deployment. A grounded look at where capabilities may be heading, with a health warning about speculation.
 
 *Tension: Capturing the upside of increasingly capable systems versus maintaining control and evaluation over them.*
 
 *In-class simulation: A small-group red-team exercise on a proposed public-sector AI deployment.*
+
+**Diagnostic — Dimension 5 · Acting under uncertainty.** *Can it decide and experiment before it has full information, without catastrophe?* When did your institution last run something genuinely allowed to fail? What happened to the people involved?
 
 **Recommended Material:**
 - [Constitutional AI](https://ar5iv.labs.arxiv.org/html/2212.08073) (2022) — Bai et al. (read for the governance idea, not the mathematics)
@@ -215,7 +233,7 @@ AI safety in both technical and policy senses, framed for public servants rather
 
 ### Session 11 — Governing AI I: Domestic Frameworks & the Regulatory Toolkit
 
-How governments actually regulate AI at home: risk-based approaches, algorithmic accountability requirements, procurement standards, disclosure duties, and the role of sectoral regulators. AI cannot be governed as a one-time decision — governance entry points run across the whole lifecycle.
+How governments actually regulate AI at home: risk-based approaches, algorithmic accountability requirements, procurement standards, disclosure duties, and the role of sectoral regulators. AI cannot be governed as a one-time decision; governance entry points run across the whole lifecycle.
 
 *Tension: Enabling innovation and adoption versus building enforceable accountability.*
 
@@ -232,13 +250,13 @@ How governments actually regulate AI at home: risk-based approaches, algorithmic
 
 The heart of the comparative week, built around a deliberate contrast between two live 2026 cases that start from opposite ends of the same problem.
 
-**Taiwan** exemplifies *govern-first, institution-and-rights-led* AI governance: its AI Basic Act (in force January 2026) codifies principles like human autonomy, privacy and data governance, transparency, fairness, and accountability, but functions as a "spine" statute that delegates the hard details downward. The real enforcement backbone is data-protection law and a new Personal Data Protection Commission; the state is building a sovereign Traditional-Chinese training corpus as a governance lever; and copyright has become the generative-AI front line. Kai-Shen Huang characterizes this as "institution-building under fire" — the test is whether a fragmented state can make the principles bite.
+**Taiwan** exemplifies *govern-first, institution-and-rights-led* AI governance: its AI Basic Act (in force January 2026) codifies principles like human autonomy, privacy and data governance, transparency, fairness, and accountability, but functions as a "spine" statute that delegates the hard details downward. The real enforcement backbone is data-protection law and a new Personal Data Protection Commission; the state is building a sovereign Traditional-Chinese training corpus as a governance lever; and copyright has become the generative-AI front line. Kai-Shen Huang characterizes this as "institution-building under fire". The test is whether a fragmented state can make the principles bite.
 
-**Alberta** exemplifies *deliver-first, efficiency-and-scale-led* modernization: the open-sourced Velocity White Papers document an agentic overhaul of legacy government code, promising dramatic time and cost savings and a replicable blueprint. It is bold and genuinely addresses the technical-debt problem that stalls most digital government — but its framing foregrounds efficiency, security, and cost while treating rights, data governance, contestability, and democratic legitimacy comparatively thinly. That is precisely the charge students should test rather than accept.
+**Alberta** exemplifies *deliver-first, efficiency-and-scale-led* modernization: the open-sourced Velocity White Papers document an agentic overhaul of legacy government code, promising dramatic time and cost savings and a replicable blueprint. It is bold and genuinely addresses the technical-debt problem that stalls most digital government, but its framing foregrounds efficiency, security, and cost while treating rights, data governance, contestability, and democratic legitimacy comparatively thinly. That is precisely the charge students should test rather than accept.
 
-Set against the EU AI Act and OECD principles, the two cases pose the course's central question at the level of the state: what does "AI governance" even mean, and what does each approach leave out? (Taiwan also carries a participatory-democracy tradition — vTaiwan — worth weighing against a purely executive, delivery-led model.)
+Set against the EU AI Act and OECD principles, the two cases pose the course's central question at the level of the state: what does "AI governance" even mean, and what does each approach leave out? (Taiwan also carries a participatory-democracy tradition, vTaiwan, worth weighing against a purely executive, delivery-led model.)
 
-**A third position, against both.** Vertesi, boyd, Taylor and Shestakofsky argue that most of what passes for AI critique and governance — including debates about what AI *is*, whether it is inevitable, how disruptive it will be, whether it is safe, and how to regulate it — functions as a set of *decoys*. Each looks like accountability while drawing attention away from the material political economy: the networks of capital, infrastructure, chips, data centres, and elite relationships that make "the Project of AI" possible. On this reading, a jurisdiction can write an admirable Basic Act or ship an impressive modernization program and leave the actual locus of power entirely untouched. Their "regulatory decoy" names the EU AI Act specifically; their "inevitability decoy" is the direct heir to the technological determinism we opened with in Session 1. Students should test this argument as hard as they test Alberta's numbers — it is a strong claim, and it risks implying that no institutional reform matters.
+**A third position, against both.** Vertesi, boyd, Taylor and Shestakofsky argue that most of what passes for AI critique and governance — including debates about what AI *is*, whether it is inevitable, how disruptive it will be, whether it is safe, and how to regulate it — functions as a set of *decoys*. Each looks like accountability while drawing attention away from the material political economy: the networks of capital, infrastructure, chips, data centres, and elite relationships that make "the Project of AI" possible. On this reading, a jurisdiction can write an admirable Basic Act or ship an impressive modernization program and leave the actual locus of power entirely untouched. Their "regulatory decoy" names the EU AI Act specifically; their "inevitability decoy" is the direct heir to the technological determinism we opened with in Session 1. Students should test this argument as hard as they test Alberta's numbers. It is a strong claim, and it risks implying that no institutional reform matters.
 
 *Tension: Deliver first versus govern first — and whether either, alone, is a complete theory of AI in the public sector.*
 
@@ -255,11 +273,13 @@ Set against the EU AI Act and OECD principles, the two cases pose the course's c
 
 ### Session 13 — Overcoming Barriers & Leading AI Change in Government
 
-The legal, budgetary, procurement, cultural, political, and legacy-IT barriers public servants meet when trying to change government with AI — and how "digital champions" navigate them. A callback to Alberta: legacy modernization is exactly the barrier Alberta's agentic approach attacks, so what does responsible, accountable change management look like at that scale?
+The legal, budgetary, procurement, cultural, political, and legacy-IT barriers public servants meet when trying to change government with AI and how "digital champions" navigate them. A callback to Alberta: legacy modernization is exactly the barrier Alberta's agentic approach attacks, so what does responsible, accountable change management look like at that scale?
 
 *Tension: The stability and continuity government must provide versus the change it must be capable of.*
 
 *Discussion: Your team's AI proposal meets the barriers. How do you actually get it through — without cutting the corners that produce the next ArriveCAN?*
+
+**Diagnostic — Dimension 4 · Structural flexibility.** *Can it move money, people, and rules at the speed a problem demands?* How long from "we should do this" to money actually moving? Which constraints are statutory, and which are habit everyone believes is statutory?
 
 **Recommended Material:**
 - [AI Meets the Cascade of Rigidity](https://www.digitalistpapers.com/essays/ai-meets-the-cascade-of-rigidity) (2024) — Jennifer Pahlka
@@ -272,6 +292,8 @@ The legal, budgetary, procurement, cultural, political, and legacy-IT barriers p
 ### Session 14 — Final Presentations: The Future of AI in the Public Sector
 
 Groups present their policy intervention or AI-agent prototype to the class and an invited panel, followed by a synthesizing discussion: where the public sector goes next, and the role of the people in the room in shaping it.
+
+**Diagnostic — complete.** Bring your seven entries together: the two or three dimensions that most constrain adaptation in your institution, sequenced interventions, and a return to the intuition you recorded in Session 1. What did you get wrong, and what changed your mind?
 
 ---
 
@@ -329,6 +351,8 @@ In groups of three or four, choose one track.
 
 **Track B — AI Agent or Tool Prototype.** A functional AI agent or tool prototype for a public-sector use case, plus a ~2,000-word design rationale covering the problem addressed, the technical approach, the governance considerations (including a responsible-use and risk assessment), and the limitations.
 
+**Track C — Adaptive Capacity Assessment.** For students who want to take the diagnostic further. A ~4,000-word assessment of one institution across all seven dimensions, comprising: what you assessed and how; dimension-by-dimension findings with evidence; **an explicit account of what you could not observe and why it matters**; the two or three dimensions that most constrain adaptation; sequenced interventions with realistic constraints; and the tensions your recommendations force, including who bears the cost. This track may be completed individually or in pairs.
+
 **Graded on:** depth of analysis or technical sophistication; feasibility and realism; integration of course concepts; quality of writing or technical execution; and how seriously the governance tensions are confronted.
 
 ### Oral Presentation (25%)
@@ -339,7 +363,7 @@ A 15–20 minute group presentation of your proposal or prototype to the class a
 
 ### Participation (20%)
 
-Active engagement in seminar discussion, guest-speaker Q&A, and in-class exercises, plus your weekly tensions-ledger entries.
+Active engagement in seminar discussion, guest-speaker Q&A, and in-class exercises, plus your seven adaptive capacity diagnostic entries.
 
 **Assessed on:** quality and frequency of contributions; engagement with guest speakers; participation in workshops; and demonstrated preparation.
 
@@ -348,6 +372,10 @@ Active engagement in seminar discussion, guest-speaker Q&A, and in-class exercis
 ## Course Policies
 
 > *Institution-specific policies (drop deadlines, grading scale, accessibility services, religious observance, missed-work procedures) should be inserted for the offering institution. The substantive course policies below are portable.*
+
+### A note on assessing your own institution
+
+The diagnostic asks you to assess a real organization, often one you work for. Two guardrails. **Do not disclose confidential, personal, procurement-sensitive, or security-sensitive information** — assess using material you could defend sharing. And **be careful about naming individuals**; the diagnostic assesses institutional capacity, not people's performance. Students who would rather not assess a current employer may use an assigned documented case, with no penalty and no explanation required.
 
 ### Generative AI: encouraged, with rigour and disclosure
 
@@ -359,7 +387,7 @@ This course treats generative AI as a normal part of modern policy work, and you
 
 The point of the course is to learn — a chance you will not get in the same way in the workplace.
 
-**And the same standard applies to me.** These course materials were developed with AI assistance, used for synthesis, drafting, and structuring across the sources credited at the top of this syllabus. The architecture, the choice of themes and cases, and the final judgments are mine. If you find an error in a citation or a link, tell me. That is the verification problem this policy is about, and it does not exempt the person who set the policy.
+**And the same standard applies to me.** These course materials were developed with AI assistance, used for synthesis, drafting, and structuring across the sources credited at the top of this syllabus. The architecture, the choice of themes and cases, and the final judgments are mine. If you find an error in a citation or a link, tell me — that is the verification problem this policy is about, and it does not exempt the person who set the policy.
 
 ### Academic integrity
 
@@ -375,7 +403,7 @@ Guest speakers appear under the Chatham House Rule. Please do not record session
 
 ### Accessibility and wellbeing
 
-This course aims to be as accessible as possible; students are encouraged to register with their institution's accessibility services and, if they wish, to speak with the instructor directly about accommodations. If you are struggling, please make use of your institution's mental-health and wellbeing resources. Your wellbeing comes first.
+This course aims to be as accessible as possible; students are encouraged to register with their institution's accessibility services and, if they wish, to speak with the instructor directly about accommodations. If you are struggling, please make use of your institution's mental-health and wellbeing resources — your wellbeing comes first.
 
 ### Contacting the instructor
 
