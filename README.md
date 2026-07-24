@@ -8,7 +8,7 @@
 
 Open course materials for a graduate seminar on artificial intelligence *in and for the public sector*. The course is designed for future public servants, policy leaders, and analysts who need to understand how AI systems actually work and how to govern and deploy them responsibly inside real government institutions. It blends technical fluency (no coding required), public-administration grounding, and hands-on work with AI tools.
 
-> **Adapted with attribution.** This course adapts the structure and pedagogy of [*Applied AI Systems and Governance* (PPG2012H)](https://github.com/jaxson/ai-policy-course) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands its "Understanding & Governing AI" material into a full seminar. It also draws on [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital) for the digital-era government backbone — its competency framework, unit structure, and reading spine. See [`LICENSE.md`](./LICENSE.md).
+> **Adapted with attribution.** The architecture and pedagogy of this course are modelled on [*Applied AI Systems and Governance* (PPG2012H)](https://github.com/jaxson/ai-policy-course) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy. It also draws on [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital) for the digital-era government backbone — its competency framework, unit structure, and reading spine. See [`LICENSE.md`](./LICENSE.md).
 
 ## What's in this repo
 
@@ -34,7 +34,7 @@ Open course materials for a graduate seminar on artificial intelligence *in and 
 
 ## The throughline: holding the tensions
 
-Every week pairs a capability with the governance tension it stresses — efficiency vs. equity, speed vs. accountability, the value of data vs. its capacity to harm, automation vs. the citizen's right to a human and contestable decision, sovereignty vs. openness. The course steers between two failure modes: the *hype* that adopts AI faster than it can be governed, and the *reflexive fear* that refuses to engage.
+Every week pairs a capability with the governance tension it stresses: efficiency vs. equity, speed vs. accountability, the value of data vs. its capacity to harm, automation vs. the citizen's right to a human and contestable decision, sovereignty vs. openness. The course steers between the *hype* that adopts AI faster than it can be governed, and the *reflexive fear* that refuses to engage.
 
 ## The takeaway: an adaptive capacity diagnostic
 
@@ -46,7 +46,7 @@ The full course is a graduate seminar, but the material is designed to be repack
 
 - **[Political-staffer intensive](./formats/political-staffers-intensive.md)** — a 3-half-day (or 2–3 full-day) version for ministerial, legislative, and campaign staff, reframed around advising an elected principal, using AI safely in fast-turnaround work, and managing the politics of government AI.
 
-> ⚠️ **Localize the jurisdiction-specific guidance before delivering.** Guidance on confidentiality, records and access-to-information, approved AI tools, and the national AI guides cited here is general and varies by jurisdiction and office. Adapt it to your own government's actual AI-use and records policy — this matters most in the staffer intensive's guardrails material, where a wrong assumption can get a principal burned.
+> ⚠️ **Localize the jurisdiction-specific guidance before delivering.** Guidance on confidentiality, records and access-to-information, approved AI tools, and the national AI guides cited here is general and varies by jurisdiction and office. Adapt it to your own government's actual AI-use and records policy. This matters most in the staffer intensive's guardrails material, where a wrong assumption can get a principal burned.
 
 ## Instructor
 
@@ -58,10 +58,8 @@ McMaster University, School of Public Policy and Founding Contributor and Resear
 
 These materials were developed with AI assistance (Anthropic's Claude), used for synthesis, drafting, and structuring across the source materials credited above. The course architecture, choice of themes and cases, pedagogical decisions, and final judgments are the author's.
 
-Readings and links should be verified against their sources before use. AI-assisted compilation is efficient but error-prone, particularly with citations and URLs, and this repository is no exception.
-
 This disclosure is deliberate. The course asks students to disclose and verify their own AI use (see the generative AI policy in [`syllabus.md`](./syllabus.md)); it would be incoherent not to model the same practice here.
 
 ## License
 
-Shared openly for educational purposes; adapt with attribution. See [`LICENSE.md`](./LICENSE.md).
+The original materials in this repository are licensed **CC BY 4.0** — share and adapt freely, including for your own teaching, with attribution. Cited readings and cases remain the property of their authors and publishers. See [`LICENSE.md`](./LICENSE.md).
