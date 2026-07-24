@@ -6,9 +6,9 @@
 
 ---
 
-Open course materials for a graduate seminar on artificial intelligence *in and for the public sector*. The course is designed for future public servants, policy leaders, and analysts who need to understand how AI systems actually work, and how to govern and deploy them responsibly inside real government institutions. It blends technical fluency (no coding required), public-administration grounding, and hands-on work with AI tools.
+Open course materials for a graduate seminar on artificial intelligence *in and for the public sector*. The course is designed for future public servants, policy leaders, and analysts who need to understand how AI systems actually work and how to govern and deploy them responsibly inside real government institutions. It blends technical fluency (no coding required), public-administration grounding, and hands-on work with AI tools.
 
-> **Adapted with attribution.** This course adapts the structure and pedagogy of [*Applied AI Systems and Governance* (PPG2012H)](https://github.com/jaxson/ai-policy-course) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands its "Understanding & Governing AI" material into a full seminar. It also draws on [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital) for the digital-era government backbone: its competency framework, unit structure, and reading spine. See [`LICENSE.md`](./LICENSE.md).
+> **Adapted with attribution.** This course adapts the structure and pedagogy of [*Applied AI Systems and Governance* (PPG2012H)](https://github.com/jaxson/ai-policy-course) by Jaxson Khan, University of Toronto, Munk School of Global Affairs & Public Policy, and expands its "Understanding & Governing AI" material into a full seminar. It also draws on [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital) for the digital-era government backbone — its competency framework, unit structure, and reading spine. See [`LICENSE.md`](./LICENSE.md).
 
 ## What's in this repo
 
@@ -16,7 +16,7 @@ Open course materials for a graduate seminar on artificial intelligence *in and 
 - **[`instructions/`](./instructions)** — the AI research custom instructions students paste into any AI tool to keep their use rigorous (verify sources, no fabrication)
 - **[`ai-policy-agents/`](./ai-policy-agents)** — applied AI tools: instructor examples and student prototype agents (the final-project Track B)
 - **[`assignments/`](./assignments)** — the briefing-note and final-project briefs
-- **[`resources/`](./resources)** — the tensions-ledger template and a consolidated reading list
+- **[`resources/`](./resources)** — the adaptive capacity diagnostic and a consolidated reading list
 - **[`formats/`](./formats)** — condensed and audience-adapted versions of the course (e.g. the political-staffer intensive)
 
 ## Topics covered
@@ -34,7 +34,11 @@ Open course materials for a graduate seminar on artificial intelligence *in and 
 
 ## The throughline: holding the tensions
 
-Every week pairs a capability with the governance tension it stresses: efficiency vs. equity, speed vs. accountability, the value of data vs. its capacity to harm, automation vs. the citizen's right to a human and contestable decision, sovereignty vs. openness. The course steers between two failure modes: the *hype* that adopts AI faster than it can be governed, and the *reflexive fear* that refuses to engage. Students keep a running "tensions ledger" (see [`resources/`](./resources)) that feeds their final project.
+Every week pairs a capability with the governance tension it stresses — efficiency vs. equity, speed vs. accountability, the value of data vs. its capacity to harm, automation vs. the citizen's right to a human and contestable decision, sovereignty vs. openness. The course steers between two failure modes: the *hype* that adopts AI faster than it can be governed, and the *reflexive fear* that refuses to engage.
+
+## The takeaway: an adaptive capacity diagnostic
+
+Most of what anyone learns about AI specifically will date. Running through the course is a working instrument that will not: students choose a real institution in Session 1 and assess it across seven dimensions of adaptive capacity: sensing, self-legibility, absorptive capacity, structural flexibility, acting under uncertainty, feedback and correction, and legitimacy. AI is the stress test, not the subject. By the end, students hold a complete assessment of a real institution and a sequenced set of interventions. See [`resources/adaptive-capacity-diagnostic.md`](./resources/adaptive-capacity-diagnostic.md).
 
 ## Formats
 
@@ -53,6 +57,8 @@ McMaster University, School of Public Policy and Founding Contributor and Resear
 ## How these materials were made
 
 These materials were developed with AI assistance (Anthropic's Claude), used for synthesis, drafting, and structuring across the source materials credited above. The course architecture, choice of themes and cases, pedagogical decisions, and final judgments are the author's.
+
+Readings and links should be verified against their sources before use. AI-assisted compilation is efficient but error-prone, particularly with citations and URLs, and this repository is no exception.
 
 This disclosure is deliberate. The course asks students to disclose and verify their own AI use (see the generative AI policy in [`syllabus.md`](./syllabus.md)); it would be incoherent not to model the same practice here.
 
