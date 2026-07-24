@@ -1,9 +1,9 @@
 # AI policy agents
 
 This folder holds small, applied AI tools built for the course — both instructor examples
-and student **Track B** prototypes from the final project. It mirrors the applied, build-it
-spirit of the original course: understanding AI in the public sector is easier once you have
-tried to build something with it.
+and student **Track B** prototypes from the [final project](../assignments/final-project.md).
+Building something is part of understanding it: the fastest way to see what these tools can and
+cannot do in a public-sector setting is to try to make one work.
 
 ## How to add an agent
 
@@ -28,3 +28,9 @@ Because these are public-sector tools, every agent in this repo must document, i
 
 An agent that cannot answer 3 and 4 is not ready to make or shape a consequential public-sector
 decision. That is a course principle, not a formality.
+
+Points 3 and 4 are the same questions the course applies to whole institutions — *who is
+accountable*, and *how does an affected person get an explanation and challenge it* — as
+Dimensions 6 and 7 of the [adaptive capacity diagnostic](../resources/adaptive-capacity-diagnostic.md).
+A tool you build yourself is the smallest scale at which they can be answered honestly, which
+makes it a good place to practise.
