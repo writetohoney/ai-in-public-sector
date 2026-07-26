@@ -35,8 +35,9 @@ Because AI moves quickly, the 2025–2026 items — especially the comparative-g
 - Attention Is All You Need — Vaswani et al. (2017) — *optional, technical*
 
 ## Session 3 — What AI is for, and the limits of data
-> **Diagnostic — Dimension 1 · Sensing**
+> **Diagnostic — Dimension 1 · Sensing** · introduces the **H2+/H2− test**
 
+- A Three Horizons Framework for Government Reform — Jennifer Pahlka (2026) — the distinction between reform that builds capacity and reform that relieves pressure on a failing system
 - Generative AI is already widespread in the public sector — Bright et al. (2024)
 - The Parable of Google Flu: Traps in Big Data Analysis — Lazer et al. (2014)
 - AI Playbook for the UK Government
@@ -44,9 +45,9 @@ Because AI moves quickly, the 2025–2026 items — especially the comparative-g
 ## Session 4 — The machinery: made, bought, funded
 > **Diagnostic — Dimension 3 · Absorptive capacity**
 
-- A Guide to Reforming Information Technology Procurement in the Government of Canada — Clarke & Boots (2022)
+- A Guide to Reforming Information Technology Procurement in the Government of Canada — Clarke & Boots (2022) — written for Canada; the diagnosis travels
 - Breaking All the Rules: Information Technology Procurement in the Government of Canada — Clarke & Boots (2024)
-- 2024 Reports of the Auditor General of Canada, Report 1 — ArriveCAN
+- One procurement-failure case from your own jurisdiction — e.g. ArriveCAN (Canada), the Post Office Horizon Inquiry (UK), GAO reports on healthcare.gov (US)
 
 ## Session 5 — Building, procuring & modernizing
 > **Diagnostic — Dimension 2 · Self-legibility**
@@ -73,8 +74,7 @@ Because AI moves quickly, the 2025–2026 items — especially the comparative-g
 ## Session 9 — Responsible AI: bias, equity, auditing & assurance
 > **Diagnostic — Dimension 7 · Legitimacy**
 
-- Guide on the use of generative artificial intelligence — Government of Canada (2024)
-- Artificial Intelligence in the Public Sector — Information and Privacy Commissioner of Ontario (2024), event video
+- One national or state responsible-AI guidance document from your own jurisdiction — e.g. Canada's Guide on the use of generative AI, the UK AI Playbook, US OMB AI memoranda, or the EU AI Act
 - The Ethics of Algorithms: Key Problems and Solutions — Tsamados et al. (2021)
 
 ## Session 10 — AI safety, frontier risk & red-teaming
