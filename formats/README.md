@@ -8,6 +8,10 @@ same material for different audiences and time constraints.
   intensive (flexes to 2–3 full days) for ministerial, legislative, and campaign staff. Reframed
   around three staffer questions: *can I trust this?*, *can I use it without getting burned?*, and
   *how do I advise my principal?*
+- **[`executive-session.md`](./executive-session.md)** — a 90-minute guided self-assessment for
+  senior leaders (deputy ministers, ADMs, agency heads). An overlay on the diagnostic: participants
+  privately assess their own institution across the seven dimensions in the room, and leave with the
+  questions they could not answer.
 
 Formats share the course's [AI research custom instructions](../instructions/ai-research-instructions.md); the opening line of those instructions is meant to be adapted to the audience's role.
 
