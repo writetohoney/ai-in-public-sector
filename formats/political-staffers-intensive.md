@@ -3,6 +3,8 @@
 ### Cut through the hype, use it without getting burned, and advise your principal
 
 **Format:** 3 half-days (flexes to 2 or 3 full days — see [Running it in other formats](#running-it-in-other-formats)) · **Audience:** ministerial and political staff, legislative and caucus staff, campaign and party staff · **Prerequisite:** none — no technical background required
+>
+> *System note: this intensive is written for a Westminster/parliamentary context (ministers, Question Period, committees). The structure transfers to congressional and other systems — swap the venues and the scenario cards' terms accordingly.*
 
 ---
 
@@ -27,7 +29,7 @@ Political staffers don't spend their days procuring models or writing algorithmi
 ## Pre-work (about 30 minutes)
 
 - Read: [Large Language Models, explained](https://www.understandingai.org/p/large-language-models-explained-with) — Lee & Trott (skim for the mental model, not the detail)
-- Skim one AI-in-government story that became a political problem — e.g. the [UK A-level grading fiasco](https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/) or the ArriveCAN Auditor General report — and come ready to say *what made it political*.
+- Skim one AI-in-government story that became a political problem — e.g. the [UK A-level grading fiasco](https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/), Australia's Robodebt, Canada's ArriveCAN, or one from your own system — and come ready to say *what made it political*.
 
 ---
 
@@ -127,7 +129,7 @@ How to help your principal take a *defensible* position — championing efficien
 
 - [Large Language Models, explained](https://www.understandingai.org/p/large-language-models-explained-with) — Lee & Trott *(fluency)*
 - [The UK A-level grading fiasco](https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/) — Kolkman *(anatomy of an AI scandal)*
-- [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html) — Government of Canada *(safe use, disclosure)*
+- A responsible-AI guidance document for your own jurisdiction — e.g. [Canada's Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html) or the [UK AI Playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government) *(safe use, disclosure)*
 - [The Velocity White Papers](https://thevelocitywhitepapers.com/) — Government of Alberta *(deliver-first)*
 - [Taiwan's Emerging AI Governance](https://www.nbr.org/publication/taiwans-emerging-ai-governance-building-from-the-basic-act-to-the-hard-questions-of-data-and-copyright/) — Huang, NBR *(govern-first)*
 - [AI Meets the Cascade of Rigidity](https://www.digitalistpapers.com/essays/ai-meets-the-cascade-of-rigidity) — Pahlka *(why government AI is hard)*
