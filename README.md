@@ -51,9 +51,7 @@ McMaster University, School of Public Policy and Founding Contributor and Resear
 ## How these materials were made
  
 These materials were developed with AI assistance (Anthropic's Claude), used for synthesis, drafting, and structuring across the source materials credited above. The course architecture, choice of themes and cases, pedagogical decisions, and final judgments are the author's.
- 
-Readings and links should be verified against their sources before use. AI-assisted compilation is efficient but error-prone, particularly with citations and URLs, and this repository is no exception.
- 
+
 This disclosure is deliberate. The course asks students to disclose and verify their own AI use (see the generative AI policy in [`syllabus.md`](./syllabus.md)); it would be incoherent not to model the same practice here.
  
 ## License
