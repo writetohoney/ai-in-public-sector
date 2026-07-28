@@ -29,7 +29,9 @@ rationale** covering:
 - the problem addressed and who it serves
 - the technical approach
 - **governance considerations** — including a responsible-use and risk assessment, accountability,
-  and contestability (see the [`ai-policy-agents/`](../ai-policy-agents) governance note)
+  and contestability (see the [`ai-policy-agents/`](../ai-policy-agents) governance note). Name the
+  oversight model your tool would sit under, drawing on the [governance models catalogue](../resources/governance-models.md),
+  and the trade-off it carries.
 - the limitations
 
 Place your prototype in its own folder under [`ai-policy-agents/`](../ai-policy-agents), using the
@@ -46,14 +48,15 @@ dimensions of adaptive capacity. Include:
 - **Dimension-by-dimension findings**, with evidence rather than impression
 - **What you could not observe, and why it matters** — required; an honest assessment records its own blind spots
 - **The two or three dimensions that most constrain adaptation**
-- **Sequenced interventions**, against realistic budget, procurement, legal, and political constraints
+- **Sequenced interventions**, against realistic budget, procurement, legal, and political constraints, each classified **H2+ or H2−** (does it build capacity, or relieve the pressure that would force real change? — Pahlka's *Three Horizons*)
+- Where you recommend a **governance model**, match it to your institution's type and weakest dimensions using the [governance models catalogue](../resources/governance-models.md), and name the trade-off it carries
 - **Tensions and trade-offs** — what your recommendations gain, what they risk, and who bears the cost
 
 May be completed individually or in pairs. See
 [`../resources/adaptive-capacity-diagnostic.md`](../resources/adaptive-capacity-diagnostic.md).
 
 > Do not disclose confidential, personal, procurement-sensitive, or security-sensitive information.
-> Assess using material you could defend sharing, and be careful about naming individuals — the
+> Assess using material you could defend sharing, and be careful about naming individuals. The
 > diagnostic assesses institutional capacity, not people's performance. Students who would rather not
 > assess a current employer may use an assigned documented case, with no penalty and no explanation required.
 
