@@ -199,6 +199,8 @@ What responsible AI looks like in practice inside government: algorithmic impact
 *Tension: Moving quickly to capture AI's benefits versus building the guardrails that earn public trust.*
  
 *Hands-on workshop: Draft an algorithmic impact assessment or responsible-use memo for a proposed public-sector system.*
+
+ **Governance models.** As you look at responsible-AI practice, see the [governance models catalogue](resources/governance-models.md) for how different institution types actually structure oversight — a centralized authority, a federated model, an ethics board, procurement gating, a sandbox, or radical transparency — and what each optimizes for and costs.
  
 **Diagnostic — Dimension 7 · Legitimacy.** *Can it change without losing the public trust that makes it worth preserving?* Would your institution survive its current technology decisions being reported accurately? Are impact assessments instruments, or paperwork?
  
@@ -250,6 +252,8 @@ Set against the EU AI Act and OECD principles, the two cases pose the course's c
 **A third position, against both.** Vertesi, boyd, Taylor and Shestakofsky argue that most of what passes for AI critique and governance — including debates about what AI *is*, whether it is inevitable, how disruptive it will be, whether it is safe, and how to regulate it — functions as a set of *decoys*. Each looks like accountability while drawing attention away from the material political economy: the networks of capital, infrastructure, chips, data centres, and elite relationships that make "the Project of AI" possible. On this reading, a jurisdiction can write an admirable Basic Act or ship an impressive modernization program and leave the actual locus of power entirely untouched. Their "regulatory decoy" names the EU AI Act specifically; their "inevitability decoy" is the direct heir to the technological determinism we opened with in Session 1. Students should test this argument as hard as they test Alberta's numbers — it is a strong claim, and it risks implying that no institutional reform matters.
  
 *Tension: Deliver first versus govern first — and whether either, alone, is a complete theory of AI in the public sector.*
+
+**From states to institutions.** Taiwan and Alberta are *national and provincial* models, but the same variation runs down to the level of the department, agency, Crown corporation, and unit, which is where most students actually work. Before this session, review the [governance models catalogue](resources/governance-models.md): six approaches to governing and guardrailing AI, and why an arm's-length body's governance problem is genuinely different from a core department's. The comparative lens is the same at every scale: deliver-first versus govern-first, and what each leaves out.
  
 *Discussion: Is the charge that Alberta is "simplistic compared to Taiwan" fair? Build the strongest case each way. Then apply the decoy argument to both: is either jurisdiction touching the political economy, or are they arguing over the wrong thing? What would a synthesis that took delivery, rights, and power seriously actually require?*
  
