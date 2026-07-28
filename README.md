@@ -16,7 +16,7 @@ Open course materials for a graduate seminar on artificial intelligence *in and 
 - **[`instructions/`](./instructions)** — the AI research custom instructions students paste into any AI tool to keep their use rigorous (verify sources, no fabrication)
 - **[`ai-policy-agents/`](./ai-policy-agents)** — applied AI tools: instructor examples and student prototype agents (the final-project Track B)
 - **[`assignments/`](./assignments)** — the briefing-note and final-project briefs
-- **[`resources/`](./resources)** — the tensions ledger, the adaptive capacity diagnostic, and a consolidated reading list
+- **[`resources/`](./resources)** — the tensions ledger, the adaptive capacity diagnostic, a catalogue of governance models, and a consolidated reading list
 - **[`formats/`](./formats)** — condensed and audience-adapted versions of the course (e.g. the political-staffer intensive)
 ## Topics covered
  
