@@ -56,7 +56,7 @@ May be completed individually or in pairs. See
 [`../resources/adaptive-capacity-diagnostic.md`](../resources/adaptive-capacity-diagnostic.md).
 
 > Do not disclose confidential, personal, procurement-sensitive, or security-sensitive information.
-> Assess using material you could defend sharing, and be careful about naming individuals. The
+> Assess using material you could defend sharing, and be careful about naming individuals — the
 > diagnostic assesses institutional capacity, not people's performance. Students who would rather not
 > assess a current employer may use an assigned documented case, with no penalty and no explanation required.
 
