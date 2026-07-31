@@ -129,7 +129,7 @@ How to help your principal take a *defensible* position — championing efficien
 
 - [Large Language Models, explained](https://www.understandingai.org/p/large-language-models-explained-with) — Lee & Trott *(fluency)*
 - [The UK A-level grading fiasco](https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/) — Kolkman *(anatomy of an AI scandal)*
-- A responsible-AI guidance document for your own jurisdiction — e.g. [Canada's Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html) or the [UK AI Playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government) *(safe use, disclosure)*
+- A responsible-AI guidance document for your own jurisdiction — e.g. the [UK AI Playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government) *(safe use, disclosure)*
 - [The Velocity White Papers](https://thevelocitywhitepapers.com/) — Government of Alberta *(deliver-first)*
 - [Taiwan's Emerging AI Governance](https://www.nbr.org/publication/taiwans-emerging-ai-governance-building-from-the-basic-act-to-the-hard-questions-of-data-and-copyright/) — Huang, NBR *(govern-first)*
 - [AI Meets the Cascade of Rigidity](https://www.digitalistpapers.com/essays/ai-meets-the-cascade-of-rigidity) — Pahlka *(why government AI is hard)*
