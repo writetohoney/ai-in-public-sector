@@ -68,6 +68,7 @@ The two fit together rather than competing: **in the seven diagnostic weeks, the
  
 > **Note:** The schedule is subject to change based on guest-speaker availability. Dates are placeholders for the term of offering.
  
+
 ### Session 1 — Orientation: AI in the Public Sector — Why This, Why Now
  
 How did we get here, and why does AI matter for public servants specifically? Overview of course expectations, tools, the tensions ledger, and the adaptive capacity diagnostic. AI as the newest and fastest-evolving turn in the long story of governments automating decisions with data — neither magic nor menace. The two failure modes the course avoids: hype and reflexive fear.
@@ -85,7 +86,7 @@ We open with the question the whole course rests on, and it is older than AI: **
 - [GenAI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 - [Implementing AI in the Public Sector](https://www.tandfonline.com/doi/full/10.1080/14719037.2023.2231950) (2024) — Mergel, Dickinson, Stenvall & Gasco
 - [Digital transformation toward AI-augmented public administration](https://www.sciencedirect.com/science/article/abs/pii/S0740624X21001003) (2022) — Ahn & Chen
-- Your jurisdiction's national/state AI strategy (e.g., [Canada's GC AI Strategy](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-overview.html))
+- Your jurisdiction's national or state AI strategy (most governments now publish one — e.g. the UK, Singapore, or the EU's coordinated plan)
 ---
  
 ### Session 2 — How Modern AI Works: A Primer for Public Servants
@@ -199,13 +200,13 @@ What responsible AI looks like in practice inside government: algorithmic impact
 *Tension: Moving quickly to capture AI's benefits versus building the guardrails that earn public trust.*
  
 *Hands-on workshop: Draft an algorithmic impact assessment or responsible-use memo for a proposed public-sector system.*
-
- **Governance models.** As you look at responsible-AI practice, see the [governance models catalogue](resources/governance-models.md) for how different institution types actually structure oversight — a centralized authority, a federated model, an ethics board, procurement gating, a sandbox, or radical transparency — and what each optimizes for and costs.
+ 
+**Governance models.** As you look at responsible-AI practice, see the [governance models catalogue](resources/governance-models.md) for how different institution types actually structure oversight — a centralized authority, a federated model, an ethics board, procurement gating, a sandbox, or radical transparency — and what each optimizes for and costs.
  
 **Diagnostic — Dimension 7 · Legitimacy.** *Can it change without losing the public trust that makes it worth preserving?* Would your institution survive its current technology decisions being reported accurately? Are impact assessments instruments, or paperwork?
  
 **Recommended Material:**
-- **One national or state responsible-AI guidance document from your own jurisdiction**, read as a working example of how a government translates principles into practice. Examples: Canada's [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html); the [UK AI Playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government); the [US OMB memoranda on AI](https://www.whitehouse.gov/omb/); or the [EU AI Act](https://artificialintelligenceact.eu/). Compare what it does and does not actually require.
+- **One national or state responsible-AI guidance document from your own jurisdiction**, read as a working example of how a government translates principles into practice. Examples span very different philosophies: the [UK AI Playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government); the [US OMB memoranda on AI](https://www.whitehouse.gov/omb/); the [EU AI Act](https://artificialintelligenceact.eu/); Singapore's [Model AI Governance Framework](https://aiverifyfoundation.sg/) (a pro-innovation, soft-law approach); or Taiwan's AI Basic Act. Compare what each actually requires versus merely encourages.
 - [The Ethics of Algorithms: Key Problems and Solutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662302) (2021) — Tsamados et al.
 ---
  
