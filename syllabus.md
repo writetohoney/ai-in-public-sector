@@ -241,7 +241,7 @@ How governments actually regulate AI at home: risk-based approaches, algorithmic
  
 ### Session 12 — Governing AI II: Comparative Approaches — Taiwan, Alberta & Beyond
  
-The heart of the comparative week, built around a deliberate contrast between two live 2026 cases that start from opposite ends of the same problem.
+The heart of the comparative week, built around a deliberate contrast between two live cases that start from opposite ends of the same problem.
  
 **Taiwan** exemplifies *govern-first, institution-and-rights-led* AI governance: its AI Basic Act (in force January 2026) codifies principles like human autonomy, privacy and data governance, transparency, fairness, and accountability, but functions as a "spine" statute that delegates the hard details downward. The real enforcement backbone is data-protection law and a new Personal Data Protection Commission; the state is building a sovereign Traditional-Chinese training corpus as a governance lever; and copyright has become the generative-AI front line. Kai-Shen Huang characterizes this as "institution-building under fire" — the test is whether a fragmented state can make the principles bite.
  
@@ -253,7 +253,7 @@ Set against the EU AI Act and OECD principles, the two cases pose the course's c
  
 *Tension: Deliver first versus govern first — and whether either, alone, is a complete theory of AI in the public sector.*
 
-**From states to institutions.** Taiwan and Alberta are *national and provincial* models, but the same variation runs down to the level of the department, agency, Crown corporation, and unit, which is where most students actually work. Before this session, review the [governance models catalogue](resources/governance-models.md): six approaches to governing and guardrailing AI, and why an arm's-length body's governance problem is genuinely different from a core department's. The comparative lens is the same at every scale: deliver-first versus govern-first, and what each leaves out.
+**From states to institutions.** Taiwan and Alberta are *national and provincial* models, but the same variation runs down to the level of the department, agency, Crown corporation, and unit, which is where most students actually work. Before this session, review the [governance models catalogue](resources/governance-models.md): ten approaches to governing and guardrailing AI, and why an arm's-length body's governance problem is genuinely different from a core department's. The comparative lens is the same at every scale: deliver-first versus govern-first, and what each leaves out.
  
 *Discussion: Is the charge that Alberta is "simplistic compared to Taiwan" fair? Build the strongest case each way. Then apply the decoy argument to both: is either jurisdiction touching the political economy, or are they arguing over the wrong thing? What would a synthesis that took delivery, rights, and power seriously actually require?*
  
