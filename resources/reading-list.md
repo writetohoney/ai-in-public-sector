@@ -26,7 +26,7 @@ Because AI moves quickly, the 2025–2026 items — especially the comparative-g
 - GenAI for Everyone — DeepLearning.AI
 - Implementing AI in the Public Sector — Mergel, Dickinson, Stenvall & Gasco (2024)
 - Digital transformation toward AI-augmented public administration — Ahn & Chen (2022)
-- Your jurisdiction's national or state AI strategy (e.g. Canada's GC AI Strategy)
+- Your jurisdiction's national or state AI strategy (most governments now publish one)
 
 ## Session 2 — How AI works (fluency)
 
@@ -74,7 +74,7 @@ Because AI moves quickly, the 2025–2026 items — especially the comparative-g
 ## Session 9 — Responsible AI: bias, equity, auditing & assurance
 > **Diagnostic — Dimension 7 · Legitimacy**
 
-- One national or state responsible-AI guidance document from your own jurisdiction — e.g. Canada's Guide on the use of generative AI, the UK AI Playbook, US OMB AI memoranda, or the EU AI Act
+- One national or state responsible-AI guidance document from your own jurisdiction — e.g. the UK AI Playbook, US OMB AI memoranda, the EU AI Act, Singapore's Model AI Governance Framework, or Taiwan's AI Basic Act
 - The Ethics of Algorithms: Key Problems and Solutions — Tsamados et al. (2021)
 
 ## Session 10 — AI safety, frontier risk & red-teaming
@@ -91,6 +91,8 @@ Because AI moves quickly, the 2025–2026 items — especially the comparative-g
 - America's AI Action Plan (2025) — for comparison
 
 ## Session 12 — Governing AI II: comparative approaches
+> See also the [governance models catalogue](./governance-models.md) — the same comparative lens at the institutional and arm's-length level.
+
 
 - Taiwan's Emerging AI Governance: Building from the Basic Act to the Hard Questions of Data and Copyright — Kai-Shen Huang, NBR (2026)
 - The Velocity White Papers — Government of Alberta (2026)
